@@ -23,3 +23,5 @@ export function Tooltip({ text, children }: TooltipProps) {
     </Provider>
   )
 }
+
+Tooltip.displayName = 'Tooltip'
