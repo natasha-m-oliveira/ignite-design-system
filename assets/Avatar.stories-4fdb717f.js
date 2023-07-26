@@ -1,0 +1,2 @@
+import{A as t}from"./index-7b126188.js";import"./index-548ac56e.js";import"./iframe-6e0e4e91.js";import"./index-6eb4ff7b.js";import"./jsx-runtime-5f3e6a26.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/natasha-m-oliveira.png",alt:"Natasha Matos"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{c as Primary,m as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-4fdb717f.js.map
