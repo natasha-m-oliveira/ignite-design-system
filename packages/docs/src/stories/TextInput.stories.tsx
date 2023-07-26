@@ -22,7 +22,8 @@ export default {
 
 export const Primary: StoryObj<TextInputProps> = {
   args: {
-    placeholder: 'Type your name',
+    prefix: 'cal.com/',
+    placeholder: 'your-username',
   },
 }
 
